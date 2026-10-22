@@ -1,0 +1,46 @@
+﻿# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de configuracion local
+.env
+.env.*
+!.env.example
+
+# Archivos de modelos de inteligencia artificial
+*.gguf
+*.ggml
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Carpetas de modelos
+models/
+modelos/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuraciones de editores
+.vscode/
+.idea/
+
+# Permitir registros de evidencia del proyecto
+!docs/
+!docs/logs/
+!docs/logs/*.log

@@ -1,0 +1,2 @@
+# Este script utiliza únicamente la biblioteca estándar de Python.
+# No requiere instalar paquetes adicionales.

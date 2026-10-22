@@ -1,0 +1,177 @@
+﻿id,categoria,modelo,temperatura,max_tokens,prompt,salida,tokens_generados,tokens_entrada,ttft_segundos,tiempo_total_segundos,tiempo_generacion_segundos,tokens_por_segundo,error
+1,generacion_texto,ministral-3:8b,0.2,512,Redacta un correo formal dirigido a un profesor para solicitar una prórroga de tres días para entregar un trabajo universitario. Explica respetuosamente que necesitas más tiempo para revisar la calidad del documento.,"**Asunto:** Solicitud de prórroga para entrega de trabajo universitario – [Nombre del curso/Código]
+
+**Estimado/a Profesor/a [Apellido del profesor]:**
+
+Espero que se encuentre bien. Me dirijo a usted con el mayor respeto para solicitar, de manera formal, una prórroga de **tres días** en la entrega del trabajo titulado *«[Nombre del trabajo o tema]»*, correspondiente a la asignatura **[Nombre del curso]**, cuyo plazo original finaliza el **[fecha de entrega original]**.
+
+Entiendo la importancia de cumplir con los plazos académicos y valoro el tiempo y el esfuerzo que dedica a evaluar nuestros trabajos. Sin embargo, debido a **[mencionar brevemente la razón de forma breve y profesional, si es relevante: por ejemplo, *circunstancias personales imprevistas*, *problemas técnicos con la red que afectaron mi productividad*, *necesidad de profundizar en la revisión de calidad para ajustar el contenido/estilo según sus indicaciones en clase* o *compromisos académicos concurrentes que han retrasado mi progreso*]**, he requerido más tiempo del previsto para garantizar que el documento cumpla con los estándares de rigor y precisión que usted exige.
+
+Quedo a su disposición para ajustar el plazo a cualquier fecha alternativa que considere viable, siempre dentro de este margen de **tres días adicionales**. Adjunto, si lo considera necesario, un borrador parcial o una nota con el avance realizado para demostrar mi compromiso con la tarea.
+
+Agradezco de antemano su comprensión y flexibilidad. Estoy seguro/a de que podré presentar un trabajo que refleje el nivel de dedicación y calidad que usted promueve en esta asignatura. Sin otro particular, reciba un cordial saludo.
+
+**Atentamente,**
+[Nombre completo del estudiante]
+[Matrícula o número de estudiante, si es relevante]
+[Correo electrónico institucional]
+[Teléfono de contacto, opcional]
+
+---
+**Notas adicionales:**
+1. **Personalización:** Si el profesor ha compartido preferencias en correos anteriores (ej.: formato, adjuntos), ajusta el tono o detalles.
+2. **Adjuntos:** Incluye solo si hay material relevante (ej.: borrador con avances). Evita adjuntar el trabajo completo sin solicitarlo.
+3. **Tono:** Mantén un lenguaje **modesto, proact",512,598,39.2153,142.1496,102.9275,4.9744,
+2,generacion_texto,ministral-3:8b,0.2,512,"Redacta un anuncio breve para informar a los estudiantes que una exposición universitaria se trasladó del lunes al miércoles a las 10:00 a. m. El anuncio debe ser claro, formal e incluir un recordatorio para llevar el material preparado.","**📢 ¡IMPORTANTE! Cambio de fecha para la exposición universitaria 📢**
+
+Estimados estudiantes:
+
+Les informamos que la **exposición universitaria** ha sido **trasladada** del **lunes al miércoles, 22 de octubre de 2026**, a las **10:00 a. m.** en el **aula [indicar ubicación si es relevante]**.
+
+**¡No olviden llevar el material preparado** para garantizar el éxito de su participación.
+
+Quedamos atentos a cualquier consulta.
+**Equipo Organizador**
+
+---
+*Nota: Ajusta la ubicación y detalles específicos según corresponda.*",147,610,3.9994,33.6246,29.6187,4.9631,
+3,resumen,ministral-3:8b,0.2,512,"Resume el siguiente texto en exactamente tres viñetas. Conserva las ideas principales y no agregues información que no aparezca en el texto: La gestión adecuada del agua es uno de los principales retos de las comunidades modernas. El crecimiento de la población aumenta la demanda de agua para consumo doméstico, agricultura e industria. Al mismo tiempo, las sequías, la contaminación de los ríos y el deterioro de las redes de distribución reducen la cantidad de agua disponible. Una parte importante del agua potable se pierde por fugas en tuberías antiguas, mientras que en algunos hogares se mantiene un consumo innecesario. Para enfrentar estos problemas, las municipalidades pueden invertir en la reparación de las redes, mejorar el tratamiento de aguas residuales y proteger las zonas de recarga acuífera. También es importante promover campañas educativas sobre el ahorro de agua y establecer sistemas que permitan detectar fugas con rapidez. En el sector agrícola, el uso de riego por goteo puede disminuir el desperdicio, siempre que se adapte a las características del cultivo y del suelo. Las empresas, por su parte, pueden reutilizar el agua en determinados procesos y controlar sus vertidos para evitar daños ambientales. Estas medidas requieren inversión, planificación y coordinación entre instituciones públicas, empresas y ciudadanía. La tecnología puede contribuir mediante sensores, medidores inteligentes y sistemas de análisis que identifiquen patrones de consumo. Sin embargo, instalar tecnología no garantiza por sí solo una buena gestión. Los datos deben interpretarse correctamente y las medidas deben responder a las necesidades reales de cada comunidad. Además, las políticas de conservación deben considerar a las poblaciones con menos recursos, de modo que el acceso al agua potable no dependa exclusivamente de la capacidad económica de las familias. La protección del agua es una responsabilidad compartida y requiere combinar infraestructura, educación, regulación y participación ciudadana. Asimismo, la cooperación entre diferentes sectores permite desarrollar estrategias más efectivas para garantizar la sostenibilidad de los recursos hídricos a largo plazo. Las autoridades locales pueden establecer mecanismos de seguimiento que evalúen periódicamente el estado de las fuentes de agua y el impacto de las medidas implementadas. La recopilación de información confiable facilita la toma de decisiones y ayuda a identificar áreas donde es necesario reforzar las acciones de conservación. Del mismo modo, la participación de la ciudadanía puede contribuir a detectar problemas en las redes de distribución y promover hábitos responsables de consumo. La educación ambiental desde edades tempranas favorece una mayor conciencia sobre la importancia del agua y sobre las consecuencias de su desperdicio. También resulta fundamental impulsar prácticas que reduzcan la contaminación y protejan los ecosistemas relacionados con el ciclo del agua. Cuando las acciones de infraestructura, tecnología, regulación y educación se desarrollan de manera coordinada, es posible mejorar la disponibilidad del recurso y fortalecer la capacidad de las comunidades para enfrentar los desafíos asociados a su gestión. De esta forma, se promueve un acceso más seguro, eficiente y equitativo al agua para la población.","- **Desafíos y causas del estrés hídrico**:
+  La gestión del agua enfrenta problemas como el aumento de la demanda por crecimiento poblacional (consumo doméstico, agrícola e industrial), sequías, contaminación de ríos y fugas en redes de distribución obsoletas, además de un consumo innecesario en hogares.
+
+- **Medidas clave para su solución**:
+  Inversión en infraestructura (reparación de redes, tratamiento de aguas residuales, protección de acuíferos), uso de tecnología (sensores, riego por goteo adaptado, medidores inteligentes) y políticas inclusivas que garanticen acceso equitativo al agua, combinando educación ambiental, regulación y participación ciudadana.
+
+- **Coordinación y sostenibilidad**:
+  Requiere colaboración entre gobiernos, empresas y sociedad para implementar estrategias integradas (monitoreo de fuentes, seguimiento de impactos, educación desde edades tempranas) y asegurar un manejo eficiente, transparente y adaptado a las necesidades locales.",220,1199,34.5261,84.1083,49.5699,4.4382,
+4,resumen,ministral-3:8b,0.2,512,"Resume el siguiente texto en dos oraciones y distingue el problema principal de la solución propuesta: Muchas pequeñas empresas administran sus citas mediante llamadas, mensajes y anotaciones manuales. Este procedimiento puede provocar reservas duplicadas, olvidos y dificultades para consultar la disponibilidad. Un sistema digital de citas permite registrar horarios, consultar espacios libres y enviar confirmaciones. Para que funcione correctamente, debe ser fácil de utilizar, proteger los datos personales y mantenerse actualizado. La implementación también requiere capacitar al personal y establecer un procedimiento para atender las solicitudes que no puedan resolverse automáticamente.","**Problema principal:** Las pequeñas empresas enfrentan desorganización en la gestión de citas (reservas duplicadas, olvidos y falta de visibilidad de disponibilidad) debido a métodos manuales como llamadas, mensajes o anotaciones.
+
+**Solución propuesta:** Adoptar un *sistema digital de citas* que automatice registros, notificaciones y verificación de horarios, garantizando **usabilidad, seguridad de datos y actualizaciones constantes**, junto con formación al equipo y protocolos para manejar excepciones.",113,680,6.3403,28.2393,21.8913,5.1619,
+5,correccion_traduccion,ministral-3:8b,0.2,512,"Corrige la ortografía y la gramática del siguiente texto sin cambiar su significado: El miercoles pasado los estudiante realizo una exposicion sobre inteligencia artificial, pero algunos no habia preparado sus diapositivas. La profesora les recomendo organizarse mejor y entregar los documento a tiempo.","Aquí tienes el texto corregido, manteniendo su significado original:
+
+**""El miércoles pasado, los estudiantes realizaron una exposición sobre inteligencia artificial, pero algunos no habían preparado sus diapositivas. La profesora les recomendó organizarse mejor y entregar los documentos a tiempo.""**
+
+### Cambios realizados:
+1. **""miercoles"" → ""miércoles""** (acento en la *i*).
+2. **""estudiante"" → ""estudiantes""** (plural, ya que se refiere a varios).
+3. **""realizo"" → ""realizaron""** (concordancia de tiempo y persona: pasado, plural).
+4. **""habia"" → ""habían""** (verbo en pasado, plural).
+5. **""diapositivas"" → ""diapositivas""** (correcto, pero se ajustó el contexto para claridad).
+6. **""documento"" → ""documentos""** (plural, ya que se refiere a las presentaciones de varios).
+7. **""recomendo"" → ""recomendó""** (acento y conjugación correcta).
+
+Si necesitas ajustes adicionales (como un tono más formal o cambios estilísticos), ¡avísame!",250,614,4.0223,53.922,49.8925,5.0108,
+6,correccion_traduccion,ministral-3:8b,0.2,512,"Traduce al inglés el siguiente texto, conservando su significado y usando un tono profesional: Nuestra empresa desarrolla soluciones informáticas para pequeñas empresas. El objetivo es simplificar sus procesos, mejorar la atención al cliente y proteger la información.","Here’s the professional English translation of your text:
+
+**""Our company develops software solutions tailored for small businesses. Our mission is to streamline their operations, enhance customer service, and ensure robust data protection.""**
+
+This version maintains the original meaning while adopting a clear, professional tone.",56,601,3.6101,16.4329,12.8178,4.3689,
+7,codigo,ministral-3:8b,0.2,512,"Escribe una función en Python llamada es_par(numero) que devuelva True si un número entero es par y False si es impar. Incluye tres pruebas: un número par positivo, un número impar positivo y el número cero. Explica brevemente cómo funciona.","Aquí tienes la función `es_par(numero)` en Python junto con las pruebas solicitadas:
+
+```python
+def es_par(numero):
+    """"""Devuelve True si el número es par, False si es impar.""""""
+    return numero % 2 == 0
+
+# Pruebas
+print(es_par(4))   # Número par positivo → True
+print(es_par(7))   # Número impar positivo → False
+print(es_par(0))   # Cero → True
+```
+
+### Explicación:
+La función utiliza el operador módulo (`%`) para verificar si el número es par. Si el resto de dividir el número entre 2 es **0**, significa que es par (`numero % 2 == 0`), por lo que devuelve `True`. En caso contrario, devuelve `False`.
+
+- **Pruebas**:
+  - `4` es par → `True`.
+  - `7` es impar → `False`.
+  - `0` es par (por definición) → `True`.",220,609,4.3242,54.6101,50.2792,4.3756,
+8,codigo,ministral-3:8b,0.2,512,"Escribe una consulta SQL que muestre el nombre de cada cliente y el total de sus pedidos, usando las tablas Clientes(id_cliente, nombre) y Pedidos(id_pedido, id_cliente, total). Incluye también a los clientes que no tienen pedidos y muestra cero como total cuando no tengan ninguno. Explica la consulta.","Aquí tienes la consulta SQL para mostrar el nombre de cada cliente y el total de sus pedidos, incluyendo a los clientes sin pedidos con un total de cero:
+
+```sql
+SELECT
+    c.nombre AS nombre_cliente,
+    COALESCE(SUM(p.total), 0) AS total_pedidos
+FROM
+    Clientes c
+LEFT JOIN
+    Pedidos p ON c.id_cliente = p.id_cliente
+GROUP BY
+    c.id_cliente, c.nombre;
+```
+
+### Explicación de la consulta:
+
+1. **`SELECT`**:
+   - `c.nombre AS nombre_cliente`: Selecciona el nombre del cliente y lo renombra como `nombre_cliente` para mayor claridad.
+   - `COALESCE(SUM(p.total), 0)`: Usa la función `COALESCE` para reemplazar los valores `NULL` (cuando un cliente no tiene pedidos) con `0`. La función `SUM(p.total)` calcula el total de los pedidos para cada cliente.
+
+2. **`FROM Clientes c`**:
+   - Indica que la consulta parte de la tabla `Clientes`, aliada como `c` para simplificar la escritura.
+
+3. **`LEFT JOIN Pedidos p ON c.id_cliente = p.id_cliente`**:
+   - Realiza una **unión izquierda** (`LEFT JOIN`) entre las tablas `Clientes` y `Pedidos`. Esto garantiza que todos los clientes aparezcan en los resultados, incluso aquellos que no tienen pedidos asociados.
+   - La condición `ON c.id_cliente = p.id_cliente` une los registros basados en el `id_cliente`.
+
+4. **`GROUP BY c.id_cliente, c.nombre`**:
+   - Agrupa los resultados por `id_cliente` y `nombre` para calcular el total de pedidos por cliente. Esto es necesario porque `SUM` requiere un `GROUP BY` cuando se usa en el `SELECT`.
+
+### Resultado esperado:
+- Para clientes con pedidos: se mostrará su nombre y el total sumado de sus pedidos.
+- Para clientes sin pedidos: se mostrará su nombre y `0` como total de pedidos.
+
+### Ejemplo de salida:
+| nombre_cliente | total_pedidos |
+|----------------|---------------|
+| Juan Pérez     | 150.50        |
+| María López    | 0             |
+| Carlos",512,628,4.8275,122.1179,117.2822,4.3655,
+9,razonamiento_veracidad,ministral-3:8b,0.2,512,Resuelve este problema paso a paso: Una tienda tiene 24 cuadernos. Por la mañana vende un tercio del total inicial y por la tarde vende 5 cuadernos más. ¿Cuántos cuadernos quedan al final del día? Explica las operaciones.,"Vamos a resolver el problema paso a paso:
+
+**1. Cuadernos iniciales:**
+La tienda tiene inicialmente **24 cuadernos**.
+
+**2. Cuadernos vendidos por la mañana:**
+Vende un tercio del total inicial.
+Un tercio de 24 es:
+\[
+\frac{1}{3} \times 24 = 8 \text{ cuadernos}
+\]
+**Cuadernos restantes después de la mañana:**
+\[
+24 - 8 = 16 \text{ cuadernos}
+\]
+
+**3. Cuadernos vendidos por la tarde:**
+Vende **5 cuadernos** más.
+**Cuadernos restantes después de la tarde:**
+\[
+16 - 5 = 11 \text{ cuadernos}
+\]
+
+**Respuesta final:**
+Al final del día, **quedan 11 cuadernos** en la tienda.
+
+---
+**Resumen de operaciones:**
+- Inicial: 24 cuadernos.
+- Vendidos por la mañana: \( \frac{1}{3} \times 24 = 8 \) → **16 restantes**.
+- Vendidos por la tarde: 5 → **11 restantes**.",247,608,3.9592,61.9225,57.9561,4.2618,
+10,razonamiento_veracidad,ministral-3:8b,0.2,512,"Evalúa la veracidad de esta afirmación: Australia tiene como capital a Sídney. Indica si es verdadera o falsa, proporciona la capital correcta y explica brevemente la diferencia entre la capital de un país y su ciudad más poblada.","**Evaluación de la afirmación:**
+**""Australia tiene como capital a Sídney""** → **Falsa**.
+
+**Capital correcta de Australia:** **Canberra**.
+
+---
+
+### Explicación sobre capital vs. ciudad más poblada:
+1. **Capital de un país**:
+   Es la ciudad designada como sede de los poderes gubernamentales (gobierno federal, parlamento, instituciones oficiales). En Australia, **Canberra** fue creada específicamente para este propósito en 1913, como un compromiso entre **Sídney** (capital de Nueva Gales del Sur) y **Melbourne** (capital de Victoria). Es una ciudad planificada, ubicada entre ambas.
+
+2. **Ciudad más poblada**:
+   Es la urbe con mayor número de habitantes. En Australia, **Sídney** supera en población a Canberra (según datos recientes, Sídney tiene ~5.3 millones, mientras Canberra ronda los 450,000 habitantes).
+
+---
+**Dato clave:** No todos los países tienen su capital en la ciudad más grande. Ejemplos:
+- **EE.UU.**: Washington D.C. (no es estado, ni la más poblada).
+- **Brasil**: Brasília (planificada en 1960).
+- **Japón**: Tokio (ciudad más poblada, pero la capital es **Tokio** en este caso, aunque técnicamente es la misma ciudad).",299,603,3.721,70.7661,67.0387,4.4601,

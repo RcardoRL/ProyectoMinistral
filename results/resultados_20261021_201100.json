@@ -1,0 +1,25 @@
+{
+  "modelo": "ministral-3:8b",
+  "fecha_ejecucion": "2026-10-21T20:11:00.346097+00:00",
+  "temperatura": 0.2,
+  "max_tokens": 100,
+  "cantidad_prompts": 1,
+  "resultados": [
+    {
+      "id": 1,
+      "categoria": "prompt_individual",
+      "modelo": "ministral-3:8b",
+      "temperatura": 0.2,
+      "max_tokens": 100,
+      "prompt": "Hola, responde brevemente qué es la inteligencia artificial.",
+      "salida": "La **inteligencia artificial (IA)** es la capacidad de las máquinas o sistemas para **imitar procesos cognitivos humanos**, como aprender, razonar, resolver problemas, entender lenguaje o tomar decisiones, usando algoritmos y datos. No es solo tecnología, sino un campo que busca que las computadoras realicen tareas que requieren \"inteligencia\".",
+      "tokens_generados": 75,
+      "tokens_entrada": 564,
+      "ttft_segundos": 42.4751,
+      "tiempo_total_segundos": 58.3962,
+      "tiempo_generacion_segundos": 15.9149,
+      "tokens_por_segundo": 4.7126,
+      "error": ""
+    }
+  ]
+}

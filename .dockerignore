@@ -1,0 +1,29 @@
+# Resultados de las pruebas
+results/
+resultados/
+resultados_*.json
+resultados_*.csv
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de Git y del editor
+.git/
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Docker
+Dockerfile
+docker-compose.yml
