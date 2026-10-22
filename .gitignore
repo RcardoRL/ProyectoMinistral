@@ -44,3 +44,6 @@ desktop.ini
 !docs/
 !docs/logs/
 !docs/logs/*.log
+
+# Script original conservado como respaldo local
+/inferencia.py
